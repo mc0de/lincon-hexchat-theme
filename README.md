@@ -1,8 +1,14 @@
 # Lincon
-Lincon is a dark HexChat theme, based on default linux console colors and inspired by using irssi.
+Lincon is a dark HexChat theme, based on unknown theme and author, I found several years ago. Customizations were made inspired by default linux console colors and irssi. Constantly updating through years it evolved into Lincon.
 
 ## Installation
 
 ## Screenshots
-![alt text](http://i.imgur.com/iZ5AmQG.png "Lincon HexChat theme")
-![alt text](http://imgur.com/dpP3xd6.png "Lincon HexChat theme")
+Under 'Settings > Preferences > Interface > Appearance':
+    Font: Consolas 10
+    Indent nick names: checkbox off
+    Window Opacity: 230
+    Time stamp format: "%H:%M:%S " (w/out quotes)
+
+![alt text](screenshots/lincon-hexchat-theme1.png "Lincon HexChat theme")
+![alt text](screenshots/lincon-hexchat-theme2.png "Lincon HexChat theme")
